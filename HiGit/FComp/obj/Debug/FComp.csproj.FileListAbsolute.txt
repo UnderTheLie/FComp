@@ -1,0 +1,6 @@
+E:\Documents\FractalGraphics\FComp\FComp\bin\FComp.dll.config
+E:\Documents\FractalGraphics\FComp\FComp\bin\FComp.dll
+E:\Documents\FractalGraphics\FComp\FComp\bin\FComp.pdb
+E:\Documents\FractalGraphics\FComp\FComp\obj\Debug\FComp.csprojResolveAssemblyReference.cache
+E:\Documents\FractalGraphics\FComp\FComp\obj\Debug\FComp.dll
+E:\Documents\FractalGraphics\FComp\FComp\obj\Debug\FComp.pdb
